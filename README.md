@@ -125,17 +125,17 @@ At the beginning of determineWinner(), add another if statement that makes the u
 
 Output(inluding all console.log tests):
 
-paper
-error
-undefined
-function
-scissors
-You lost!
-It's a tie
-You won!
-You threw: rock
-The computer threw: rock
-It's a tie
+paper,
+ error,
+ undefined,
+ function,
+ scissors,
+ You lost!,
+ It's a tie,
+ You won!,
+ You threw: rock,
+ The computer threw: rock,
+ It's a tie,
  
 
 
